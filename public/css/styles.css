@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 50em;
+    max-width: 95%;
+    /* border-radius: 50%; */
+    margin: 0 auto 1em;
+}
+
+.progress {
+    margin-top: 1em;
+}
+
+.hidden {
+    display: none;
+}
